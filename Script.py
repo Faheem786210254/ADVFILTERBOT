@@ -37,9 +37,9 @@ Developer - <a href='https://t.me/Vishnumb14'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
 special Thanks To ❤️ Devs -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/Vishnumb14'>𝙑𝙞𝙨𝙝𝙣𝙪</a>
+-Dev 1 [Creator of this bot ]<a href='https://t.me/Vishnumb14'>𝙑𝙞𝙨𝙝𝙣𝙪</a>
 
--Dev 2 <a href='https://t.me/Alyaralp'>ALYARALP</a>
+-Dev 2 [Owner of this bot ] <a href='https://t.me/Alyaralp'>ALYARALP</a>
 """
 
 
