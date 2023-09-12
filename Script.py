@@ -16,7 +16,7 @@ class script(object):
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/AdvMoviesfilterbot> 𝙍𝙤𝙨𝙚𝙮 𝙗𝙤𝙩</a>
+‣ My name : <a href=https://t.me/Movieautofilter_bot>𝙈𝙤𝙫𝙞𝙚𝙨 𝙁𝙞𝙡𝙚𝙨 𝘽𝙤𝙩</a>
  ‣ My best friend : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
  ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Vishnumb14'>𝙑𝙞𝙨𝙝𝙣𝙪</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
@@ -30,7 +30,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
-Where is source code? - <a href='https://t.me/Moviesrequest_info'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+Where is source code? - <a href='https://t.me/Alyaralp'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 
 
 Developer - <a href='https://t.me/Vishnumb14'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
@@ -39,7 +39,7 @@ special Thanks To ❤️ Devs -
 
 -Dev 1 [Owner of this bot ]<a href='https://t.me/Vishnumb14'>𝙑𝙞𝙨𝙝𝙣𝙪</a>
 
--Dev 2 <a href='https://t.me/Moviesrequest_info'>𝙈𝙤𝙫𝙞𝙚𝙨 𝙍𝙚𝙦𝙪𝙚𝙨𝙩 𝙄𝙣𝙛𝙤</a>
+-Dev 2 <a href='https://t.me/Alyaralp'>ALYARALP</a>
 """
 
 
