@@ -1,7 +1,11 @@
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {}, Sweetheart ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ😍
-"""
+    START_TXT = """Hᴇʟʟᴏ {},
+Mʏsᴇʟғ <a href=https://t.me/Movieautofilter_bot>𝑴𝒂𝒓𝒊𝒂 𝑳𝒖𝒊𝒔💗</a>\n
+I Aᴍ Sᴇᴀʀᴄʜ Bᴏᴛ Aɴᴅ Cᴀɴ Sʜᴀʀᴇ Mᴏᴠɪᴇs Dɪʀᴇᴄᴛʟy
+Jᴜsᴛ Tʏᴘᴇ Mᴏᴠɪᴇ Nᴀᴍᴇ Wɪᴅ Yᴇᴀʀ Aɴᴅ Sᴇᴇ Mᴀɢɪᴄ💫\n
 
+🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 :<a href=https://t.me/Alyaralp> 🇭 🇺 🇲 </a>
+"""
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
@@ -27,7 +31,7 @@ Developer - <a href='https://t.me/Alyaralp'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
 special Thanks To ❤️ Devs -
 
--Dev 1 [Creator of this bot ]<a href='https://t.me/Alyaralp'>𝙑𝙞𝙨𝙝𝙣𝙪</a>
+-Dev 1 [Creator of this bot ]<a href='https://t.me/Alyaralp'></a>
 
 -Dev 2 [Owner of this bot ] <a href='https://t.me/Alyaralp'>ALYARALP</a>
 """
